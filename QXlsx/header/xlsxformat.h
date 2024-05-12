@@ -6,11 +6,11 @@
 #include "xlsxglobal.h"
 
 #include <QByteArray>
-#include <QColor>
 #include <QExplicitlySharedDataPointer>
-#include <QFont>
 #include <QList>
 #include <QVariant>
+#include <QtGui/QColor>
+#include <QtGui/QFont>
 
 class FormatTest;
 

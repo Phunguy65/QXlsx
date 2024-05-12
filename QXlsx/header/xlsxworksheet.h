@@ -11,7 +11,6 @@
 
 #include <QDateTime>
 #include <QIODevice>
-#include <QImage>
 #include <QMap>
 #include <QObject>
 #include <QPointF>
@@ -19,6 +18,7 @@
 #include <QUrl>
 #include <QVariant>
 #include <QtGlobal>
+#include <QtGui/QImage>
 
 class WorksheetTest;
 

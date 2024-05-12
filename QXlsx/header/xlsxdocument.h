@@ -8,10 +8,10 @@
 #include "xlsxworksheet.h"
 
 #include <QIODevice>
-#include <QImage>
 #include <QObject>
 #include <QVariant>
 #include <QtGlobal>
+#include <QtGui/QImage>
 
 QT_BEGIN_NAMESPACE_XLSX
 
